@@ -10,4 +10,4 @@ Por fim foi utilizado um sistema de recomendação simples baseado nos produtos 
 # Objetivos futuros.
 
 * Aplicar um modelo de Machine Learning ou Deep Learning para comparar a Feature Selection.
-* Realizar novas análises que possam ser previsíveis.
+* Realizar novas análises estatísticas para uma maior variedade de conclusões.
